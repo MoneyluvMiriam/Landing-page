@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,18 +60,16 @@
 <body>
 
   <header>
-    <h1>Claim Free CapCut Pro Templates</h1>
-    <p>Get instant access to premium CapCut templates for free—no signup required.</p>
+    <h1>Claim Your Free CapCut Pro Templates And Start Editing Like A Pro!</h1>
+    <p> Get Exclusive Access to CapCut Pro Templates for Free!</p>
   </header>
 
   <section class="claim-section">
-    <h2>Claim Your Free Templates</h2>
-    <p>Click below to instantly claim access to high-quality CapCut Pro templates that will take your videos to the next level:</p>
-    <a href="https://www.profitableratecpm.com/matws4nj3?key=b6c0727e391f5df95cce45d140416027" class="button" target="_blank">Claim Templates Now</a>
+   <a href="https://www.profitableratecpm.com/matws4nj3?key=b6c0727e391f5df95cce45d140416027" class="button" target="_blank">CLICK HERE</a>
   </section>
 
   <footer>
-    This site is not affiliated with CapCut or ByteDance. Templates are for educational/personal use only.
+    
   </footer>
 
 </body>
